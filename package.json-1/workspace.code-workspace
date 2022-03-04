@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "package.json",
+			"path": "../../../package.json"
+		}
+	],
+	"settings": {}
+}

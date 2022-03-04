@@ -1,0 +1,30 @@
+{
+    "name": "index.html",
+    "version": "1.0.0",
+    "description": "a program",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "faithkeen"
+    },
+    "keywords": [
+        "node"
+    ],
+    "author": "NPM Demo Faith <npm.demo.faithlahmelenwo@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "build": "^0.1.4",
+        "init": "^0.1.2",
+        "modules": "^0.4.0",
+        "node.js": "^0.0.1-security",
+        "sode": "^0.0.2",
+        "solc": "^0.6.12",
+        "truffle": "^5.5.2"
+    }
+}
