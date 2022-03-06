@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "blockchain",
+			"path": "../../../../package.json/blockchain/blockchain"
+		},
+		{
+			"name": "blockchain",
+			"path": "../../../../package.json/blockchain/blockchain/blockchain"
+		}
+	],
+    "settings": {}
+}
